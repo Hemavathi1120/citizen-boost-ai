@@ -1,0 +1,14 @@
+# SchemeSync AI
+
+> AI-powered platform helping Indian citizens discover, verify eligibility for, and apply to government welfare schemes. One profile, every benefit.
+
+SchemeSync AI is a discovery and application-preparation platform for Indian government welfare schemes. Citizens create a single profile, upload their documents (verified via Gemini Vision OCR), and receive AI-ranked eligibility matches across central and state schemes.
+
+## Pages
+
+- [Home](/): Product overview, features, how it works
+- [Sign in](/auth): Google and email authentication
+
+## Optional
+
+- [Schemes catalog](/schemes): 20+ central schemes indexed (PM-KISAN, Ayushman Bharat, PMAY, PMJDY, Ujjwala, MUDRA, and more)
