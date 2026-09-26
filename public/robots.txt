@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Disallow: /auth
+Disallow: /dashboard
+Disallow: /profile
+Disallow: /documents
+Disallow: /applications
+Disallow: /assistant
+Disallow: /saved
+Disallow: /notifications
+Disallow: /settings
+Disallow: /family
+Disallow: /eligibility
+
+Sitemap: /sitemap.xml
